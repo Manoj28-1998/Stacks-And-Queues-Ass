@@ -1,5 +1,5 @@
             C:\Users\manoj\Desktop\Stacks_And_Queues_Assignment\main.c        
-                    <stdio.h>
+        <stdio.h>
 	<stdlib.h>
 	<assert.h>
 	<stdint.h>
@@ -7,11 +7,11 @@
 	"stacklink.h"
 
              C:\Users\manoj\Desktop\Stacks_And_Queues_Assignment\stack.c
-                    <stdint.h>
+        <stdint.h>
 	<assert.h>
 	"stacklink.h"
 	<string.h>
 	<ctype.h>
              C:\Users\manoj\Desktop\Stacks_And_Queues_Assignment\stacklink.h
 
-                     <stdint.h>
+        <stdint.h>
